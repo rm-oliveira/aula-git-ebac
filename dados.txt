@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Rayane
+-Profissão: Estudante
+-Cidade: Araxá - MG
+-O que faz nas horas vagas: Atividades físicas
+-Feedback sobre o curso Qualidade de Software: Curso com boa didática, as práticas são muito interessantes.
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma muito completa, muito legal poder enviar as práticas e ter total apoio do time de tutoria.
 
 Obrigado!!!
 
